@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
   char x;
-  cin>>x;
+  cin >> x;
   if(convert(x)){
     cout<<x<<endl;
   }else{
