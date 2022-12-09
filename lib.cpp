@@ -2,7 +2,6 @@
 // Created by Cecilia on 9/12/2022.
 //
 
-#include "lib.h"
 
 bool convert(char &a){
     if(x >= 65 && x <= 90){
