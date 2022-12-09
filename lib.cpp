@@ -3,7 +3,7 @@
 //
 
 
-bool convert(char &a){
+bool convert(char &x){
     if(x >= 65 && x <= 90){
         x += 32;
         return true;
